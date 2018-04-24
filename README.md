@@ -1,24 +1,20 @@
-# README
+# Faire ses premières bases de données en Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ce projet permet de créer une bases de données avec une application rails, en utilisant la gem ActiveRecord.
 
-Things you may want to cover:
+##Ce don vous avez besoin pour vous faire plaisir:
+```
+* Ruby version 2.4.4
+* SQLite3
+* Active Record
+```
+## Gem
+```
+* faker
+* bundle install
+``
+Voila
 
-* Ruby version
+ ¯\_(ツ)_/¯
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Enjoy

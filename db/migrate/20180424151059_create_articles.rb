@@ -4,7 +4,7 @@ class CreateArticles < ActiveRecord::Migration[5.1]
       t.text :title
       t.text :body
       t.text :description
-      t.belongs_to :users, index:true
+      t.belongs_to :user, index:true
       t.timestamps
     end
   end
